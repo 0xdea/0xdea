@@ -1,4 +1,11 @@
-## Who's Raptor?
+# Who's Raptor?
+[![](https://img.shields.io/github/stars/0xdea?style=flat&color=yellow)](https://github.com/0xdea/)
+[![](https://img.shields.io/badge/twitter-%400xdea-blue.svg)](https://twitter.com/0xdea)
+[![](https://img.shields.io/badge/mastodon-%40raptor-purple.svg)](https://infosec.exchange/@raptor)
+
+> "When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl."
+>
+> -- Anonymous 
 
 I'm a seasoned security researcher and tech leader with [25 years](https://packetstormsecurity.com/files/author/191/) of experience, specializing in offensive security, from old school X.25 to modern mobile apps. I work as technical director at [HN Security](https://security.humanativaspa.it/), a boutique company I co-founded that provides tailored offensive security services. 
 
