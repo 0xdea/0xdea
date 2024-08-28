@@ -19,10 +19,10 @@ I write code in:
 [![C](https://img.shields.io/badge/c-555555.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![Assembly](https://img.shields.io/badge/assembly-6e4c13.svg?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Python](https://img.shields.io/badge/python-3572a5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/go-375eab?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![JavaScript](https://img.shields.io/badge/javascript-f1E05a.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Java](https://img.shields.io/badge/java-b07219.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-![C++](https://img.shields.io/badge/c++-f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/c++-f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/go-375eab?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Perl](https://img.shields.io/badge/perl-0298c3.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Shell](https://img.shields.io/badge/shell-89e051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
 
