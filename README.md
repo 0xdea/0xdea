@@ -17,7 +17,7 @@ I write code in:
 
 [![Rust](https://img.shields.io/badge/rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/c-555555.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![Assembly](https://img.shields.io/badge/asm-6e4c13.svg?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Assembly](https://img.shields.io/badge/assembly-6e4c13.svg?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Python](https://img.shields.io/badge/python-3572a5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-f1E05a.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Java](https://img.shields.io/badge/java-b07219.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
