@@ -24,6 +24,6 @@ I write code in:
 [![Python](https://img.shields.io/badge/python-3572a5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-f1E05a.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Perl](https://img.shields.io/badge/perl-0298c3.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
-[![Shell](https://img.shields.io/badge/bash-89e051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
+[![Shell](https://img.shields.io/badge/sh-89e051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
 
 ... and more. My personal homepage is [0xdeadbeef.info](https://0xdeadbeef.info/).
